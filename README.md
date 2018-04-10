@@ -1,6 +1,9 @@
 # Momentime
 Momentime is the perfect app for an organized human.
+
 Data is persistent on the pc, WIP cloud sync.
+
+Many editor features/shortcut [CodeMirror](https://codemirror.net/)
 
 
 ### Markdown Editor with instant preview
